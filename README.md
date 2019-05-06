@@ -1,6 +1,6 @@
 # Facial Recognition
 This was done to play around with some of the functions of the existing Python face_recognition library.
-The following programs use images of basketball players to count, compare, extract, save, and identify/label pictures of known players.
+The following programs use images of people to count, compare, extract, save, and identify/label pictures.
 The code can be modified to try images of any person by simply downloading the image to the Images 
 folder and modifying the image path in the Python files.
 
