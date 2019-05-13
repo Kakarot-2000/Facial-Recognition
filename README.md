@@ -1,7 +1,7 @@
 # Facial Recognition
 This was done to play around with some of the functions of the existing Python face_recognition and PIL libraries.
 The following programs use images of people to count, compare, extract, save, and identify/label pictures.
-The code can be modified to try images of any person by simply downloading the image to the Images 
+The code can be modified to try images of any person by simply uploading the image to the Images 
 folder and modifying the image path in the Python files.
 
 ## Count Faces
